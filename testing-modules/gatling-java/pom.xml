@@ -71,7 +71,7 @@
     </build>
 
     <properties>
-        <gatling.version>3.9.5</gatling.version>
+        <gatling.version>3.12.0</gatling.version>
         <gatling-maven-plugin.version>4.3.0</gatling-maven-plugin.version>
         <faker.version>1.0.2</faker.version>
         <spring.version>2.7.5</spring.version>
