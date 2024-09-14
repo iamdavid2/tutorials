@@ -115,7 +115,7 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.version>6.0.6</org.springframework.version>
+        <org.springframework.version>6.1.13</org.springframework.version>
         <javassist.version>3.29.2-GA</javassist.version>
         <mysql-connector-java.version>8.2.0</mysql-connector-java.version>
         <spring-data-jpa.version>3.1.0</spring-data-jpa.version>
