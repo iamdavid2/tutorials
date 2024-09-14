@@ -88,7 +88,7 @@
         <spring-boot.version>2.1.13.RELEASE</spring-boot.version>
         <!-- downgrading the version as twitterstream and hdfs starter apps does not support later versions -->
         <spring-cloud-dependencies.version>Greenwich.SR6</spring-cloud-dependencies.version>
-        <spring-cloud-starter-stream.version>2.1.2.RELEASE</spring-cloud-starter-stream.version>
+        <spring-cloud-starter-stream.version>2.1.3.RELEASE</spring-cloud-starter-stream.version>
         <!-- used only in dependency management to force this version, not included as a direct dependency -->
         <junit.version>4.13.2</junit.version>
         <log4j2.version>2.17.1</log4j2.version>
