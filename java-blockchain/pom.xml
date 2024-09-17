@@ -44,7 +44,7 @@
 
     <properties>
         <sl4j.version>2.1.0-alpha1</sl4j.version>
-        <bitcoinj.version>0.16.2</bitcoinj.version>
+        <bitcoinj.version>0.16.3</bitcoinj.version>
     </properties>
 
 
