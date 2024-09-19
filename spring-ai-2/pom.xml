@@ -16,7 +16,7 @@
 	<properties>
 		<java.version>17</java.version>
 		<spring-ai.version>1.0.0-M1</spring-ai.version>
-		<spring-boot.version>3.2.7</spring-boot.version>
+		<spring-boot.version>3.2.10</spring-boot.version>
 		<ollama-spring-boot-starter.version>1.0.0-M1</ollama-spring-boot-starter.version>
 	</properties>
 	<dependencies>
