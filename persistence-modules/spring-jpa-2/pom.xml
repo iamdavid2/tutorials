@@ -124,7 +124,7 @@
     <properties>
         <!-- Spring -->
         <org.springframework.version>6.0.9</org.springframework.version>
-        <spring-boot.version>3.1.0</spring-boot.version>
+        <spring-boot.version>3.2.10</spring-boot.version>
         <!-- persistence -->
         <tomcat-dbcp.version>10.1.9</tomcat-dbcp.version>
         <jakson-databind.version>2.16.1</jakson-databind.version>
