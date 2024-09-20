@@ -98,7 +98,7 @@
 
     <properties>
         <org.apache.spark.spark-core.version>3.3.2</org.apache.spark.spark-core.version>
-        <org.apache.spark.spark-sql.version>3.3.2</org.apache.spark.spark-sql.version>
+        <org.apache.spark.spark-sql.version>3.5.0</org.apache.spark.spark-sql.version>
         <org.apache.spark.spark-streaming.version>3.3.2</org.apache.spark.spark-streaming.version>
         <org.apache.spark.spark-mllib.version>3.3.2</org.apache.spark.spark-mllib.version>
         <org.apache.spark.spark-graphx.version>3.3.2</org.apache.spark.spark-graphx.version>
