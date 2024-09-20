@@ -54,7 +54,7 @@
         <springBoot.version>3.3.0</springBoot.version>
         <myBatisPlus.version>3.5.7</myBatisPlus.version>
         <h2.version>2.3.230</h2.version>
-        <mysql.version>8.0.26</mysql.version>
+        <mysql.version>8.0.31</mysql.version>
         <freemarker.version>2.3.31</freemarker.version>
     </properties>
 
