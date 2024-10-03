@@ -182,7 +182,7 @@
         <kafka.version>3.4.0</kafka.version>
         <testcontainers-kafka.version>1.19.3</testcontainers-kafka.version>
         <testcontainers-jupiter.version>1.15.3</testcontainers-jupiter.version>
-        <flink.version>1.16.1</flink.version>
+        <flink.version>1.19.1</flink.version>
         <awaitility.version>3.0.0</awaitility.version>
         <org.apache.spark.spark-core.version>2.4.8</org.apache.spark.spark-core.version>
         <com.datastax.spark.spark-cassandra-connector.version>2.5.2</com.datastax.spark.spark-cassandra-connector.version>
