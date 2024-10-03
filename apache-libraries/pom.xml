@@ -102,10 +102,10 @@
     </build>
 
     <properties>
-        <avro.version>1.8.2</avro.version>
+        <avro.version>1.11.4</avro.version>
         <bval.version>3.0.1</bval.version>
         <jakarta.validation.validation-api.version>3.1.0</jakarta.validation.validation-api.version><opennlp.opennlp-tools.version>1.8.4</opennlp.opennlp-tools.version>
-        <solr.solr-solrj.version>6.4.0</solr.solr-solrj.version>
+        <solr.solr-solrj.version>9.0.0</solr.solr-solrj.version>
     </properties>
 
 </project>
