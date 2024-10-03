@@ -110,7 +110,7 @@
         <org.springframework.data.version>3.0.3</org.springframework.data.version>
         <tomcat-dbcp.version>9.0.0.M26</tomcat-dbcp.version>
         <mysql.version>8.2.0</mysql.version>
-        <mariaDB4j.version>2.6.0</mariaDB4j.version>
+        <mariaDB4j.version>3.1.0</mariaDB4j.version>
         <h2.version>2.1.214</h2.version>
         <testcontainers.mysql.version>1.17.6</testcontainers.mysql.version>
     </properties>
