@@ -89,8 +89,7 @@
                         <configuration>
                             <finalName>${uberjar.name}</finalName>
                             <transformers>
-                                <transformer
-                                    implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <mainClass>org.openjdk.jmh.Main</mainClass>
                                 </transformer>
                             </transformers>
@@ -150,7 +149,7 @@
 
     <properties>
         <orika.version>1.5.4</orika.version>
-        <dozer.version>6.5.2</dozer.version>
+        <dozer.version>7.0.0</dozer.version>
         <mapstruct.version>1.6.0.Beta1</mapstruct.version>
         <modelmapper.version>3.2.0</modelmapper.version>
         <jmapper.version>1.6.1.CR2</jmapper.version>
