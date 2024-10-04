@@ -105,7 +105,7 @@
 
     <properties>
         <neo4j-java-driver.version>5.6.0</neo4j-java-driver.version>
-        <neo4j.version>5.8.0</neo4j.version>
+        <neo4j.version>5.14.0</neo4j.version>
         <jackson-jsog.version>1.1.2</jackson-jsog.version>
         <neo4j-ogm.version>3.1.22</neo4j-ogm.version>
         <neo4j-ogm-core.version>4.0.5</neo4j-ogm-core.version>
