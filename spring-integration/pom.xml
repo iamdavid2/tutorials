@@ -123,7 +123,7 @@
     </build>
 
     <properties>
-        <spring.version>6.0.0</spring.version>
+        <spring.version>6.2.0</spring.version>
         <spring-social.version>1.1.4.RELEASE</spring-social.version>
         <spring-integration-twitter.version>5.0.13.RELEASE</spring-integration-twitter.version>
         <javax-activation.version>1.1.1</javax-activation.version>
