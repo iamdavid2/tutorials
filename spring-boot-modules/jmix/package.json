@@ -48,7 +48,7 @@
     "@vaadin/polymer-legacy-adapter": "24.3.18",
     "@vaadin/progress-bar": "24.3.18",
     "@vaadin/radio-group": "24.3.18",
-    "@vaadin/router": "1.7.5",
+    "@vaadin/router": "2.0.0",
     "@vaadin/scroller": "24.3.18",
     "@vaadin/select": "24.3.18",
     "@vaadin/side-nav": "24.3.18",
