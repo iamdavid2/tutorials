@@ -70,7 +70,7 @@
     <properties>
         <jakarta.servlet-api.version>5.0.0</jakarta.servlet-api.version>
         <spring-boot.version>3.0.6</spring-boot.version>
-        <jetty.version>11.0.15</jetty.version>
+        <jetty.version>11.0.24</jetty.version>
     </properties>
 
 </project>
