@@ -56,7 +56,7 @@
         <maven.compiler.target>17</maven.compiler.target>
         <commons-collections.version>3.2.2</commons-collections.version>
         <slf4j-api.version>1.7.25</slf4j-api.version>
-        <spring-beans.version>6.1.1</spring-beans.version>
+        <spring-beans.version>6.1.14</spring-beans.version>
         <junit.version>4.13.2</junit.version>
     </properties>
 
