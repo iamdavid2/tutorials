@@ -31,7 +31,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>amazon-kinesis-producer</artifactId>
-            <version>0.13.1</version>
+            <version>0.15.12</version>
         </dependency>
         <dependency>
             <groupId>com.amazonaws</groupId>
@@ -46,7 +46,7 @@
     </dependencies>
 
     <properties>
-        <aws-sdk.version>1.12.380</aws-sdk.version>
+        <aws-sdk.version>1.12.776</aws-sdk.version>
         <spring-cloud-stream-kinesis-binder.version>2.2.0</spring-cloud-stream-kinesis-binder.version>
         <spring-cloud-stream-test.version>4.0.0</spring-cloud-stream-test.version>
     </properties>
