@@ -87,7 +87,7 @@
         <modelmapper.version>3.2.0</modelmapper.version>
         <commons-codec.version>1.16.1</commons-codec.version>
         <lombok.version>1.18.30</lombok.version>
-        <spring.tx.version>6.1.4</spring.tx.version>
+        <spring.tx.version>6.1.14</spring.tx.version>
     </properties>
 
 </project>
