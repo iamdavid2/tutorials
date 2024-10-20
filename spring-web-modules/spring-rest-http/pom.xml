@@ -85,7 +85,7 @@
         <xstream.version>1.4.9</xstream.version>
         <jsonpatch.version>1.12</jsonpatch.version>
         <httpclient5.version>5.2.1</httpclient5.version>
-        <spring-oxm.version>6.1.4</spring-oxm.version>
+        <spring-oxm.version>6.1.14</spring-oxm.version>
     </properties>
 
 </project>
