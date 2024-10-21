@@ -62,7 +62,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>6.1.6</version>
+            <version>6.1.14</version>
         </dependency>
 
     </dependencies>
@@ -83,7 +83,7 @@
     <properties>
         <apache.commons.lang3.version>3.13.0</apache.commons.lang3.version>
         <apache.commons.collection.version>4.5.0-M2</apache.commons.collection.version>
-        <apache.tika.version>2.9.1</apache.tika.version>
+        <apache.tika.version>3.0.0</apache.tika.version>
         <commons-text.version>1.10.0</commons-text.version>
         <icu4j.version>74.1</icu4j.version>
     </properties>
