@@ -40,7 +40,7 @@
 
     <properties>
         <datasource-proxy.version>1.4.1</datasource-proxy.version>
-        <spring-oxm.version>6.1.4</spring-oxm.version>
+        <spring-oxm.version>6.1.14</spring-oxm.version>
     </properties>
 
 </project>
