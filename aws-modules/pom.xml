@@ -38,7 +38,7 @@
         <aws-java-sdk.version>1.12.331</aws-java-sdk.version>
         <aws-java-sdk-v2.version>2.24.9</aws-java-sdk-v2.version>
         <maven-shade-plugin.version>3.0.0</maven-shade-plugin.version>
-        <aws-java-sdk-dynamodb.version>1.12.523</aws-java-sdk-dynamodb.version>
+        <aws-java-sdk-dynamodb.version>1.12.776</aws-java-sdk-dynamodb.version>
     </properties>
 
 </project>
