@@ -84,7 +84,7 @@
     </build>
 
     <properties>
-        <keycloak.version>21.0.1</keycloak.version>
+        <keycloak.version>25.0.6</keycloak.version>
         <start-class>com.baeldung.disablingkeycloak.App</start-class>
     </properties>
 
