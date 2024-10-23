@@ -53,7 +53,7 @@
 
     <properties>
         <opencsv.version>5.8</opencsv.version>
-        <spring-core.version>6.1.2</spring-core.version>
+        <spring-core.version>6.1.14</spring-core.version>
         <commons-text.version>1.10.0</commons-text.version>
     </properties>
 
