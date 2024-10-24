@@ -176,7 +176,7 @@
         <jakarta.annotation-api.version>3.0.0-M1</jakarta.annotation-api.version>
         <jakarta.servlet-api.version>6.1.0-M1</jakarta.servlet-api.version>
         <jakarta.jstl-api.version>3.0.0</jakarta.jstl-api.version>
-        <spring-security.version>6.2.1</spring-security.version>
+        <spring-security.version>6.2.7</spring-security.version>
     </properties>
 
 </project>
