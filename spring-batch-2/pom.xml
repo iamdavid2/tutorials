@@ -76,7 +76,7 @@
         <spring.batch.version>5.1.2</spring.batch.version>
         <awaitility.version>4.2.1</awaitility.version>
         <start-class>com.baeldung.batch.SpringBootBatchProcessingApplication</start-class>
-        <spring-core.version>6.1.5</spring-core.version>
+        <spring-core.version>6.1.14</spring-core.version>
     </properties>
 
 </project>
