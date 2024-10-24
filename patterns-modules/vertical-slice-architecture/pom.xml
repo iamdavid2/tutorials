@@ -8,7 +8,7 @@
     <name>vertical-slice-architecture</name>
 
     <properties>
-        <spring-boot.version>3.2.4</spring-boot.version> <!-- Requires at least spring framework version 6.1.X to work -->
+        <spring-boot.version>3.2.11</spring-boot.version> <!-- Requires at least spring framework version 6.1.X to work -->
     </properties>
 
     <packaging>jar</packaging>
