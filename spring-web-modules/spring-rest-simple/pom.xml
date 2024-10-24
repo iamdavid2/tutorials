@@ -270,7 +270,7 @@
         <protobuf-java-format.version>1.4</protobuf-java-format.version>
         <protobuf-java.version>3.1.0</protobuf-java.version>
         <xstream.version>1.4.9</xstream.version>
-        <spring-oxm.version>6.1.4</spring-oxm.version>
+        <spring-oxm.version>6.1.14</spring-oxm.version>
         <!-- Maven plugins -->
         <cargo-maven2-plugin.version>1.6.0</cargo-maven2-plugin.version>
         <!-- okhttp -->
