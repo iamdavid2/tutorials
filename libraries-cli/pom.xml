@@ -57,8 +57,8 @@
         <jcommander.version>1.78</jcommander.version>
         <airline.version>2.7.2</airline.version>
         <commons-cli.version>1.8.0</commons-cli.version>
-        <spring-boot-starter.version>3.3.3</spring-boot-starter.version>
-        <spring.version>6.1.12</spring.version>
+        <spring-boot-starter.version>3.3.5</spring-boot-starter.version>
+        <spring.version>6.1.14</spring.version>
     </properties>
 
 </project>
