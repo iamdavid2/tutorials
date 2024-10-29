@@ -44,7 +44,7 @@
     </build>
 
     <properties>
-        <spring.boot.version>3.3.2</spring.boot.version>
+        <spring.boot.version>3.3.5</spring.boot.version>
         <heroku.maven.plugin.version>3.0.7</heroku.maven.plugin.version>
     </properties>
 
