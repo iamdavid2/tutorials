@@ -378,14 +378,14 @@
         <xmlunit-assertj.version>2.6.3</xmlunit-assertj.version>
         <joox.version>1.6.2</joox.version>
         <jaxen.version>1.2.0</jaxen.version>
-        <freemarker.version>2.3.29</freemarker.version>
+        <freemarker.version>2.3.30</freemarker.version>
         <jakarta.xml.bind-api.version>4.0.2</jakarta.xml.bind-api.version>
         <mustache.version>0.9.6</mustache.version>
         <jaxb-core.version>2.3.0.1</jaxb-core.version>
         <jaxb-impl.version>4.0.4</jaxb-impl.version>
         <jaxb-runtime.version>4.0.3</jaxb-runtime.version>
         <jericho.version>3.4</jericho.version>
-        <htmlcleaner.version>2.25</htmlcleaner.version>
+        <htmlcleaner.version>2.29</htmlcleaner.version>
         <jsoup.version>1.17.2</jsoup.version>
     </properties>
 
