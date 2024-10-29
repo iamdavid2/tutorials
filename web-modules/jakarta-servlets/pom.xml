@@ -78,7 +78,7 @@
         <httpclient.version>4.5.3</httpclient.version>
         <jakarta.servlet-api.version>6.1.0</jakarta.servlet-api.version>
         <commons-text.version>1.10.0</commons-text.version>
-        <uap.version>1.5.4</uap.version>
+        <uap.version>1.6.0</uap.version>
         <jetty-maven-plugin.version>10.0.4</jetty-maven-plugin.version>
     </properties>
 
