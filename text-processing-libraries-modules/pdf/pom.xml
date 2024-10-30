@@ -137,7 +137,7 @@
         <pdfbox.version>2.0.31</pdfbox.version>
         <itext.version>5.5.13.3</itext.version>
         <itextpdf.layput.version>7.2.5</itextpdf.layput.version>
-        <itextpdf.kernel.version>7.2.5</itextpdf.kernel.version>
+        <itextpdf.kernel.version>7.2.6</itextpdf.kernel.version>
         <pdfbox.version>2.0.29</pdfbox.version>
         <commons-csv.version>1.9.0</commons-csv.version>
     </properties>
