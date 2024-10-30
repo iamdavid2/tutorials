@@ -92,7 +92,7 @@
     </build>
 
     <properties>
-        <spring-oxm.version>6.1.4</spring-oxm.version>
+        <spring-oxm.version>6.1.14</spring-oxm.version>
         <http-client.version>4.5.14</http-client.version>
         <jaxb.version>4.0.2</jaxb.version>
         <jettison.version>1.5.4</jettison.version>
