@@ -72,7 +72,7 @@
 
     <properties>
         <couchbase.client.version>2.7.2</couchbase.client.version>
-        <spring-framework.version>6.1.13</spring-framework.version>
+        <spring-framework.version>6.1.14</spring-framework.version>
         <jakarta.annotation-api.version>3.0.0</jakarta.annotation-api.version>
     </properties>
 
