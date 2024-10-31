@@ -50,8 +50,8 @@
     </build>
 
     <properties>
-        <mariaDB4j.version>2.6.0</mariaDB4j.version>
-        <h2.version>2.1.214</h2.version>
+        <mariaDB4j.version>3.1.0</mariaDB4j.version>
+        <h2.version>2.2.220</h2.version>
     </properties>
 
 </project>
