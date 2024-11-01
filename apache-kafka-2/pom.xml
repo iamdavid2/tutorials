@@ -125,7 +125,7 @@
         <testcontainers-kafka.version>1.19.3</testcontainers-kafka.version>
         <testcontainers-jupiter.version>1.19.3</testcontainers-jupiter.version>
         <jackson.databind.version>2.15.2</jackson.databind.version>
-        <flink.version>1.16.1</flink.version>
+        <flink.version>1.19.1</flink.version>
         <jackson.version>2.15.4</jackson.version>
         <awaitility.version>3.0.0</awaitility.version>
     </properties>
