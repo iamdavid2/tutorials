@@ -148,7 +148,7 @@
         <jmockit.version>1.49</jmockit.version>
         <mockito-inline.version>5.2.0</mockito-inline.version>
         <javalin.version>1.6.0</javalin.version>
-        <googleclient.version>1.23.0</googleclient.version>
+        <googleclient.version>1.44.2</googleclient.version>
         <async.http.client.version>2.2.0</async.http.client.version>
     </properties>
 
