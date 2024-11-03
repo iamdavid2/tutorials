@@ -192,7 +192,7 @@
         <serenity.jira.version>1.9.0</serenity.jira.version>
         <serenity.plugin.version>4.2.1</serenity.plugin.version>
         <spring-mock-mvc.version>5.5.0</spring-mock-mvc.version>
-        <asciidoctor-maven-plugin>1.5.7.1</asciidoctor-maven-plugin>
+        <asciidoctor-maven-plugin>3.1.0</asciidoctor-maven-plugin>
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
         <jaxb.version>2.3.0</jaxb.version>
         <jakarta.servlet-api.version>5.0.0</jakarta.servlet-api.version>
