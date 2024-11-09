@@ -21,7 +21,7 @@
     </modules>
 
     <properties>
-        <groovy.version>3.0.15</groovy.version>
+        <groovy.version>3.0.23</groovy.version>
         <groovy-all.version>3.0.15</groovy-all.version>
         <groovy-sql.version>3.0.15</groovy-sql.version>
         <hsqldb.version>2.7.1</hsqldb.version>
