@@ -82,7 +82,7 @@
         <spring.fox.version>3.0.0</spring.fox.version>
         <start-class>com.baeldung.springbootmvc.SpringBootMvcFnApplication</start-class>
         <maven.compiler.release>17</maven.compiler.release>
-        <xstream.version>1.4.11.1</xstream.version>
+        <xstream.version>1.4.21</xstream.version>
         <rest-assured.version>5.5.0</rest-assured.version>
         <spring-boot.version>3.2.2</spring-boot.version>
     </properties>
