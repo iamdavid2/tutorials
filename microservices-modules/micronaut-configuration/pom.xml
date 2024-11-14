@@ -147,7 +147,7 @@
         <release.version>17</release.version>
         <packaging>jar</packaging>
 
-        <micronaut.version>4.4.3</micronaut.version>
+        <micronaut.version>4.7.5</micronaut.version>
         <exec.mainClass>com.baeldung.micronaut.httpfilters.ServerApplication</exec.mainClass>
         <micronaut.validation.version>4.6.1</micronaut.validation.version>
         <micronaut.runtime>netty</micronaut.runtime>
