@@ -75,7 +75,7 @@
 	<properties>
 		<org-json.version>20240303</org-json.version>
 		<commons-io.version>2.16.1</commons-io.version>
-		<amazon-athena.version>2.26.0</amazon-athena.version>
+		<amazon-athena.version>2.29.12</amazon-athena.version>
 	</properties>
 
 </project>
