@@ -37,7 +37,7 @@
     </dependencies>
 
     <properties>
-        <amazon-textract.version>2.27.5</amazon-textract.version>
+        <amazon-textract.version>2.29.12</amazon-textract.version>
     </properties>
 
 </project>
