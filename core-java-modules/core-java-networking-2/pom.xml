@@ -59,7 +59,7 @@
     <properties>
         <apache.httpclient.version>5.3.1</apache.httpclient.version>
         <angus.mail.version>2.0.1</angus.mail.version>
-        <async-http-client.version>2.4.5</async-http-client.version>
+        <async-http-client.version>3.0.0</async-http-client.version>
         <jakarta.bind.version>2.3.3</jakarta.bind.version>
         <greenmail.version>2.0.0-alpha-3</greenmail.version>
         <commons-codec.version>1.16.0</commons-codec.version>
