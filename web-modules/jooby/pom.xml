@@ -72,7 +72,7 @@
     </build>
 
     <properties>
-        <jooby.version>2.16.1</jooby.version>
+        <jooby.version>3.5.2</jooby.version>
         <rest-assured.version>5.5.0</rest-assured.version>
         <application.class>com.baeldung.jooby.App</application.class>
         <maven-shade-plugin.version>3.2.4</maven-shade-plugin.version>
