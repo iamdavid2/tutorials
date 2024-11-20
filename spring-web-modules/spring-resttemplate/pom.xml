@@ -205,7 +205,7 @@
     </profiles>
 
     <properties>
-        <xstream.version>1.4.20</xstream.version>
+        <xstream.version>1.4.21</xstream.version>
         <!-- Maven plugins -->
         <cargo-maven2-plugin.version>1.6.1</cargo-maven2-plugin.version>
         <!-- okhttp -->
