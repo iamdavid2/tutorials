@@ -171,7 +171,7 @@
     <properties>
         <!-- The main class to start by executing java -jar -->
         <start-class>com.baeldung.Application</start-class>
-        <spring.version>2.7.18</spring.version>
+        <spring.version>3.2.11</spring.version>
         <spring-data-dynamodb.version>5.1.0</spring-data-dynamodb.version>
         <aws-java-sdk-dynamodb.version>1.12.714</aws-java-sdk-dynamodb.version>
         <bootstrap.version>3.3.7-1</bootstrap.version>
