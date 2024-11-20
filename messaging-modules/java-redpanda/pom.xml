@@ -48,7 +48,7 @@
 
     <properties>
         <redpanda.version>1.19.4</redpanda.version>
-        <kafka.version>3.6.1</kafka.version>
+        <kafka.version>3.8.0</kafka.version>
         <testcontainers-jupiter.version>1.15.3</testcontainers-jupiter.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
