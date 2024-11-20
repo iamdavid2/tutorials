@@ -80,7 +80,7 @@
     <properties>
         <mock-sever-netty-version>3.10.8</mock-sever-netty-version>
         <apche-http-version>4.4.1</apche-http-version>
-        <spring-boot.version>3.3.2</spring-boot.version>
+        <spring-boot.version>3.3.5</spring-boot.version>
         <spring.webflux.version>6.1.13</spring.webflux.version>
         <jackson.version>2.18.0</jackson.version>
     </properties>
