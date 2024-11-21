@@ -106,8 +106,8 @@
     </build>
 
     <properties>
-        <org.springframework.version>6.0.6</org.springframework.version>
-        <org.springframework.data.version>3.0.3</org.springframework.data.version>
+        <org.springframework.version>6.1.14</org.springframework.version>
+        <org.springframework.data.version>3.2.11</org.springframework.data.version>
         <tomcat-dbcp.version>9.0.0.M26</tomcat-dbcp.version>
         <mysql.version>8.2.0</mysql.version>
         <mariaDB4j.version>2.6.0</mariaDB4j.version>
