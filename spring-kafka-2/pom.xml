@@ -77,7 +77,7 @@
 
     <properties>
         <testcontainers-kafka.version>1.19.7</testcontainers-kafka.version>
-        <kafka-streams.version>3.7.0</kafka-streams.version>
+        <kafka-streams.version>3.8.0</kafka-streams.version>
         <start-class>com.baeldung.spring.kafka.dlt.KafkaDltApplication</start-class>
     </properties>
 
