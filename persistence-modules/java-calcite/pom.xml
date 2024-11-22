@@ -36,7 +36,7 @@
     </build>
 
     <properties>
-        <calcite.version>1.36.0</calcite.version>
+        <calcite.version>1.37.0</calcite.version>
     </properties>
 
 </project>
