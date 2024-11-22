@@ -37,7 +37,7 @@
     </dependencies>
 
     <properties>
-        <langchain4j.version>0.23.0</langchain4j.version>
+        <langchain4j.version>0.25.0</langchain4j.version>
     </properties>
 
 </project>
