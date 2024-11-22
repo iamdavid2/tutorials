@@ -95,8 +95,8 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.version>6.0.6</org.springframework.version>
-        <org.springframework.data.version>3.0.3</org.springframework.data.version>
+        <org.springframework.version>6.1.14</org.springframework.version>
+        <org.springframework.data.version>3.2.11</org.springframework.data.version>
         <maven.deploy.skip>true</maven.deploy.skip>
         <tomcat-dbcp.version>9.0.0.M26</tomcat-dbcp.version>
         <hypersistance-utils-hibernate-60.version>3.3.1</hypersistance-utils-hibernate-60.version>
