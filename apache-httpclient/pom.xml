@@ -92,7 +92,7 @@
     </build>
 
     <properties>
-        <mockserver.version>5.6.1</mockserver.version>
+        <mockserver.version>5.9.0</mockserver.version>
         <wiremock.version>3.9.1</wiremock.version>
         <!-- http client & core 5 -->
         <httpcore5.version>5.2.5</httpcore5.version>
