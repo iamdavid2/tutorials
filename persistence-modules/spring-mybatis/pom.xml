@@ -73,7 +73,7 @@
 
     <properties>
         <spring-mybatis.version>3.0.3</spring-mybatis.version>
-        <mybatis.version>3.5.2</mybatis.version>
+        <mybatis.version>3.5.16</mybatis.version>
         <mybatis-spring-boot-starter.version>3.0.3</mybatis-spring-boot-starter.version>
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
         <maven.compiler.source>17</maven.compiler.source>
