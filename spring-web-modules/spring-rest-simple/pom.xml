@@ -268,7 +268,7 @@
     <properties>
         <kryo.version>4.0.0</kryo.version>
         <protobuf-java-format.version>1.4</protobuf-java-format.version>
-        <protobuf-java.version>3.1.0</protobuf-java.version>
+        <protobuf-java.version>3.25.5</protobuf-java.version>
         <xstream.version>1.4.9</xstream.version>
         <spring-oxm.version>6.1.4</spring-oxm.version>
         <!-- Maven plugins -->
