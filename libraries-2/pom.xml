@@ -153,7 +153,7 @@
     <properties>
         <mapdb.version>3.0.8</mapdb.version>
         <classgraph.version>4.8.153</classgraph.version>
-        <jbpm.version>7.20.0.Final</jbpm.version>
+        <jbpm.version>7.45.0.Final</jbpm.version>
         <crawler4j.version>4.4.0</crawler4j.version>
         <mesos.library.version>1.11.0</mesos.library.version>
         <handlebars.version>4.3.1</handlebars.version>
