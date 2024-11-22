@@ -56,7 +56,7 @@
     </build>
 
     <properties>
-        <protobuf-java.version>3.25.3</protobuf-java.version>
+        <protobuf-java.version>3.25.5</protobuf-java.version>
         <protobuf-java-format.version>1.4</protobuf-java-format.version>
         <httpclient.version>4.5.14</httpclient.version>
         <start-class>com.baeldung.protobuf.Application</start-class>
