@@ -20,7 +20,7 @@
     </dependencies>
 
     <properties>
-        <spoon-core.version>10.3.0</spoon-core.version>
+        <spoon-core.version>11.0.0</spoon-core.version>
     </properties>
 
 </project>
