@@ -66,7 +66,7 @@
     </build>
 
     <properties>
-        <spring-data-elasticsearch.version>5.1.2</spring-data-elasticsearch.version>
+        <spring-data-elasticsearch.version>5.3.5</spring-data-elasticsearch.version>
         <elasticsearch.version>8.9.0</elasticsearch.version>
     </properties>
 
