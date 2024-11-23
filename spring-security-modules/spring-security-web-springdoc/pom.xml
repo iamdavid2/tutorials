@@ -45,7 +45,7 @@
     <properties>
         <springdoc.version>2.4.0</springdoc.version>
         <start-class>com.baeldung.basicauth.SpringBootSpringdocBasicAuth</start-class>
-        <springdoc-openapi-webmvc-ui.version>2.5.0</springdoc-openapi-webmvc-ui.version>
+        <springdoc-openapi-webmvc-ui.version>2.7.0</springdoc-openapi-webmvc-ui.version>
     </properties>
 
 </project>
