@@ -26,7 +26,7 @@
     </dependencies>
 
     <properties>
-        <arangodb.version>3.5.0</arangodb.version>
+        <arangodb.version>4.0.0</arangodb.version>
     </properties>
 
 </project>
