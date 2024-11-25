@@ -62,8 +62,8 @@
     </build>
 
     <properties>
-        <spring-boot.version>3.3.2</spring-boot.version>
-        <springdoc-openapi-starter-webmvc-ui.version>2.6.0</springdoc-openapi-starter-webmvc-ui.version>
+        <spring-boot.version>3.3.5</spring-boot.version>
+        <springdoc-openapi-starter-webmvc-ui.version>2.7.0</springdoc-openapi-starter-webmvc-ui.version>
     </properties>
 
 </project>
