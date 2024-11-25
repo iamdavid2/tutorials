@@ -104,7 +104,7 @@
         <rest-assured.version>3.3.0</rest-assured.version>
         <!-- plugins -->
         <thin.version>1.0.22.RELEASE</thin.version>
-        <spring-boot.version>2.7.11</spring-boot.version>
+        <spring-boot.version>3.4.0</spring-boot.version>
         <aspectj.version>1.9.20.1</aspectj.version>
         <mysql-connector-java.version>8.2.0</mysql-connector-java.version>
         <org.slf4j.version>1.7.32</org.slf4j.version>
