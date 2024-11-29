@@ -31,7 +31,7 @@
     </build>
 
     <properties>
-        <springframework.spring-web.version>4.3.4.RELEASE</springframework.spring-web.version>
+        <springframework.spring-web.version>6.1.14</springframework.spring-web.version>
         <apache.httpclient.version>4.5.14</apache.httpclient.version>
     </properties>
 
