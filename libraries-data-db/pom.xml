@@ -189,23 +189,13 @@
                         </goals>
                         <configuration>
                             <tasks>
-                                <property name="plugin_classpath"
-                                    refid="maven.plugin.classpath"/>
-                                <taskdef name="gen-reladomo" classpath="plugin_classpath"
-                                    classname="com.gs.fw.common.mithra.generator.MithraGenerator"/>
-                                <gen-reladomo
-                                    xml="${project.basedir}/src/main/resources/reladomo/ReladomoClassList.xml"
-                                    generatedDir="${project.build.directory}/generated-sources/reladomo"
-                                    nonGeneratedDir="${project.basedir}/src/main/java"/>
-                                <taskdef name="gen-ddl"
-                                    classname="com.gs.fw.common.mithra.generator.dbgenerator.MithraDbDefinitionGenerator"
-                                    loaderRef="reladomoGenerator">
+                                <property name="plugin_classpath" refid="maven.plugin.classpath"/>
+                                <taskdef name="gen-reladomo" classpath="plugin_classpath" classname="com.gs.fw.common.mithra.generator.MithraGenerator"/>
+                                <gen-reladomo xml="${project.basedir}/src/main/resources/reladomo/ReladomoClassList.xml" generatedDir="${project.build.directory}/generated-sources/reladomo" nonGeneratedDir="${project.basedir}/src/main/java"/>
+                                <taskdef name="gen-ddl" classname="com.gs.fw.common.mithra.generator.dbgenerator.MithraDbDefinitionGenerator" loaderRef="reladomoGenerator">
                                     <classpath refid="maven.plugin.classpath"/>
                                 </taskdef>
-                                <gen-ddl
-                                    xml="${project.basedir}/src/main/resources/reladomo/ReladomoClassList.xml"
-                                    generatedDir="${project.build.directory}/generated-db/sql"
-                                    databaseType="postgres"/>
+                                <gen-ddl xml="${project.basedir}/src/main/resources/reladomo/ReladomoClassList.xml" generatedDir="${project.build.directory}/generated-db/sql" databaseType="postgres"/>
                             </tasks>
                         </configuration>
                     </execution>
@@ -313,7 +303,7 @@
         <javax.jdo.version>3.2.1</javax.jdo.version>
         <HikariCP.version>5.1.0</HikariCP.version>
         <ebean.version>13.15.2</ebean.version>
-        <debezium.version>2.5.0.Final</debezium.version>
+        <debezium.version>3.0.4.Final</debezium.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <testcontainers-version>1.19.3</testcontainers-version>
         <jakarta.xml.bind.version>4.0.1</jakarta.xml.bind.version>
