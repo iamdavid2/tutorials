@@ -133,7 +133,7 @@
         <reactor-spring.version>1.0.1.RELEASE</reactor-spring.version>
         <spring-cloud.version>2021.0.4</spring-cloud.version>
         <mockwebserver.version>5.0.0-alpha.12</mockwebserver.version>
-        <kotlin-stdlib.version>2.0.0-Beta4</kotlin-stdlib.version>
+        <kotlin-stdlib.version>2.1.0</kotlin-stdlib.version>
         <start-class>com.baeldung.custom.deserialization.Application</start-class>
     </properties>
 
