@@ -24,7 +24,7 @@
 
     <properties>
         <spring-boot.version>3.2.2</spring-boot.version>
-        <spring-cloud-starter-gateway.version>4.1.1</spring-cloud-starter-gateway.version>
+        <spring-cloud-starter-gateway.version>4.2.0</spring-cloud-starter-gateway.version>
         <start-class>com.baeldung.springcloudgateway.introduction.IntroductionGatewayApplication</start-class>
     </properties>
 
