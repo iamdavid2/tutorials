@@ -75,7 +75,7 @@
     </dependencies>
 
     <properties>
-        <camel.version>4.3.0</camel.version>
+        <camel.version>4.8.2</camel.version>
         <camel-swagger.version>3.22.0</camel-swagger.version>
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip> <!--Skip repackaging for multiple main classes-->
     </properties>
