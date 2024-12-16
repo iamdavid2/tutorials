@@ -29,7 +29,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <milvus.version>2.3.6</milvus.version>
+        <milvus.version>2.5.2</milvus.version>
     </properties>
 
 </project>
