@@ -64,7 +64,7 @@
 
     <properties>
         <spring-boot.version>3.2.1</spring-boot.version>
-        <spring-kafka.version>3.2.1</spring-kafka.version>
+        <spring-kafka.version>3.2.6</spring-kafka.version>
         <testcontainers.version>1.19.8</testcontainers.version>
         <awaitility.version>4.2.0</awaitility.version>
         <start-class>org.springframework.boot.SpringApplication.Application</start-class>
